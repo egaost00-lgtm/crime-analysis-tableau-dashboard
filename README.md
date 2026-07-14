@@ -1,7 +1,8 @@
-# 🚔 Crime Analysis Dashboard using Tableau
+# 🚔 Crime Analysis Dashboard using Tableau 
 
-## 📌 Project Overview
-This project is an interactive Tableau dashboard created to analyze crime data and identify patterns, trends, and insights through data visualization.
+## 📌 Project Overview## 📷 Dashboard Preview
+
+![Crime Analysis Dashboard](Screenshot 2026-07-14 at 19.50.47.png)This project is an interactive Tableau dashboard created to analyze crime data and identify patterns, trends, and insights through data visualization.
 
 ## 🎯 Objectives
 - Analyze crime trends over time
